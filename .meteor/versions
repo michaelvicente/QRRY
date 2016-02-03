@@ -130,6 +130,7 @@ srp@1.0.4
 standard-app-packages@1.0.6
 tap:i18n@1.7.0
 telescope:api@0.25.6
+telescope:cloudinary@0.25.6
 telescope:comments@0.25.6
 telescope:core@0.25.6
 telescope:daily@0.25.6
