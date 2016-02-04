@@ -42,3 +42,4 @@ telescope:cloudinary
 ############ Your Custom Packages ############
 jeremy:telescope-plugin-hero
 summernote:summernote
+mcrider:bootstrap-wysiwyg
