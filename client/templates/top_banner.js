@@ -1,4 +1,4 @@
-Template.footer_code.helpers({
+Template.top_banner.helpers({
   topbannerCode: function(){
     return Settings.get('topbannerCode');
   }
