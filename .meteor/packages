@@ -41,3 +41,4 @@ telescope:cloudinary
 
 ############ Your Custom Packages ############
 webbroi:telescope-theme-iris
+telescope:bootstrap-wysiwyg
