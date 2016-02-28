@@ -28,6 +28,7 @@
   "googleAnalyticsId" : "Google Analytics ID",
   "mixpanelId" : "Mixpanel ID",
   "clickyId" : "Clicky ID",
+  "topbannerCode" : "Top Banner Code",
   "footerCode" : "Footer Code",
   "extraCode" : "Extra Code",
   "extraCSS" : "Extra CSS",
