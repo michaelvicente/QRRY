@@ -374,6 +374,15 @@ Settings.schema = new SimpleSchema({
       group: "07_integrations"
     }
   },
+  topbannerCode: {
+    type: String,
+    optional: true,
+    autoform: {
+      group: 'extras',
+      instructions: 'Top Banner content (accepts Markdown).',
+      rows: 5
+    }
+  },
   footerCode: {
     type: String,
     optional: true,

@@ -1,3 +1,9 @@
  <template name="top-banner">
-   <h2>Hello!</h2>
- </template>  
+  <div class="top-banner-content">
+    {{#if topbannerCode}}
+      {{#markdown}}{{topbannerCode}}{{/markdown}}
+    {{else}}
+      Welcome!
+    {{/if}}
+  </div>
+</template>  
